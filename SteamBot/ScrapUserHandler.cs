@@ -1,4 +1,4 @@
-
+﻿
 
 
 
@@ -6,26 +6,16 @@
 ==========ScrapUserHandler.cs==========
 
 Scrapbanking bot written by waylaidwanderer (http://steamcommunity.com/id/waylaidwanderer/)
-Edited by jyang772 (http://steamcommunity.com/id/AeroNX)
 
 ==How to use the scrapbanking bot when trading==
 
 If you are selling weapons, simply add 2 weapons and the bot will automatically add 1 scrap. If you want to buy weapons, first you must type "buy", hit enter, and then type in what weapon you want. For example, if you wanted to buy The Original, type "original" and the bot will automatically add it for you if he has one in stock. To add multiple weapons at once, you can separate each search term with a comma. For example, you can type "original, black" to tell the bot to add The Original and a Black Box. If the bot has added the wrong item, type "remove", hit enter, and the type in the weapon name you wish to remove.
-
 
 ==Credit where credit is due - thanks to:==
 
 Jessecar96 and Geel9 for coding SteamBot, allowing me to have hours and hours of fun
 Derongan for helping me out a ton when I first started coding my scrapbanking bot
 DrProfAxesome for also helping with the scrapbanking bot
-
-
-==========
--Changed price of weapons to one scrap
--Added Tour of Duty ticket selling/buying functionality
--Edited Admin privileges
--Added 'Donate' feature
-
 */
 
 
